@@ -1,2 +1,2 @@
-# blockchain_0
+# my_first_blockchain
 Initial learnings about blockchain
