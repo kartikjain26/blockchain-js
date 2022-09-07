@@ -1,0 +1,14 @@
+id = 138ab04c-5885-4173-aad5-a6c93ecfd817
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"4671bf5b-9de4-4c18-b309-ba5104562beb","path":"kartik-dhinesh collection_898487-4671bf5b-9de4-4c18-b309-ba5104562beb.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
