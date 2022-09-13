@@ -1,9 +1,30 @@
 {
 	"info": {
 		"_postman_id": "4671bf5b-9de4-4c18-b309-ba5104562beb",
-		"name": "kartik-dhinesh collection",
+		"name": "test",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "898487-4671bf5b-9de4-4c18-b309-ba5104562beb"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Folder",
+			"item": [],
+			"id": "1f333260-b058-4d71-982f-05df58cd7fcc"
+		},
+		{
+			"name": "New Request",
+			"id": "ba24cf78-a68d-4e9b-953d-edbd66d372bc",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
 }
